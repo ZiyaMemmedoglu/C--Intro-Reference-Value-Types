@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZIYA MUSAYEV\\source\\repos\\home task c# forreach switchcase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BEA399-5B84-4162-8D9D-E4F066C5BE6D}|home task c# forreach switchcase\\home task c# forreach switchcase.csproj|c:\\users\\ziya musayev\\source\\repos\\home task c# forreach switchcase\\home task c# forreach switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BEA399-5B84-4162-8D9D-E4F066C5BE6D}|home task c# forreach switchcase\\home task c# forreach switchcase.csproj|solutionrelative:home task c# forreach switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZIYA MUSAYEV\\source\\repos\\home task c# forreach switchcase\\home task c# forreach switchcase\\Program.cs",
+              "RelativeDocumentMoniker": "home task c# forreach switchcase\\Program.cs",
+              "ToolTip": "C:\\Users\\ZIYA MUSAYEV\\source\\repos\\home task c# forreach switchcase\\home task c# forreach switchcase\\Program.cs*",
+              "RelativeToolTip": "home task c# forreach switchcase\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:56:43.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

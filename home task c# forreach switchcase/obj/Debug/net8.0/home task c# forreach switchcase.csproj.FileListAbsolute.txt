@@ -1,0 +1,14 @@
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\bin\Debug\net8.0\home task c# forreach switchcase.exe
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\bin\Debug\net8.0\home task c# forreach switchcase.deps.json
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\bin\Debug\net8.0\home task c# forreach switchcase.runtimeconfig.json
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\bin\Debug\net8.0\home task c# forreach switchcase.dll
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\bin\Debug\net8.0\home task c# forreach switchcase.pdb
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\home task c# forreach switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\home task c# forreach switchcase.AssemblyInfoInputs.cache
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\home task c# forreach switchcase.AssemblyInfo.cs
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\home task c# forreach switchcase.csproj.CoreCompileInputs.cache
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\home task c# forreach switchcase.dll
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\refint\home task c# forreach switchcase.dll
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\home task c# forreach switchcase.pdb
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\home task c# forreach switchcase.genruntimeconfig.cache
+C:\Users\ZIYA MUSAYEV\source\repos\home task c# forreach switchcase\home task c# forreach switchcase\obj\Debug\net8.0\ref\home task c# forreach switchcase.dll
